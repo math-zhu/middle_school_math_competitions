@@ -11,6 +11,10 @@
 
 **Textbooks**: Competition Math for Middle School, by J. Batterson (recommended to buy for reading assignment and homework)
 
+**What to bring for classes**:
+* Pencils and scratch papers. 
+* Please feel free to ask the [ChatGPT](https://chatgpt.com) to solve lecture notes homework coding problems.
+* Please **bring the homework each class** either in paper or sending your solutions in markdown to [math.zhu@gmail.com](math.zhu@gmail.com). See Homework solution [sample code](Homeworks/Math_HW_1.ipynb).  
 
 ### Course Material
 
