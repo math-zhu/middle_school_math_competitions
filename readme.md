@@ -1,5 +1,5 @@
 ## 2025 Topics on middle school math competitions
-**Instructor**: Yi Zhu
+**Instructor**: [Yi Zhu](https://sites.google.com/site/yizhuhomepage/home)
 
 **Class Schedule**: Saturday 4-4:50 PM
 
@@ -16,7 +16,7 @@
 
 | Date  | Lecture Notes  | Reading | Homeworks  | Homework Solutions  
 |---|---|---|---|---|
-| 1/4  | [N1](N1.pdf) | p129-p140 | p134, 4.500<br>p135, 4.010, 4.110, 4.410, 4.510<br>p136, 4.020, 4.320, 4.620, 4.820<br>p140, 4.040, 4.140, 4.440, 4.640  | [HW1](Math_HW_1.ipynb) | 
-| 1/11  | [N2](N2.pdf)  |  p137-p147 | p138, 4.530, 4.630<br>p139, 4.730, 4.830<br>p142, 4.050, 4.450<br>p144, 4.080, 4.280<br>p146, 4.090, 4.190  |  [HW2](Math_HW_2.ipynb) |  
-| 1/18  | [N3](N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |    | 
+| 1/4  | [N1](Notes/N1.pdf) | p129-p140 | p134, 4.500<br>p135, 4.010, 4.110, 4.410, 4.510<br>p136, 4.020, 4.320, 4.620, 4.820<br>p140, 4.040, 4.140, 4.440, 4.640  | [HW1](Homeworks/Math_HW_1.ipynb) | 
+| 1/11  | [N2](Notes/N2.pdf)  |  p137-p147 | p138, 4.530, 4.630<br>p139, 4.730, 4.830<br>p142, 4.050, 4.450<br>p144, 4.080, 4.280<br>p146, 4.090, 4.190  |  [HW2](Homeworks/Math_HW_2.ipynb) |  
+| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |    | 
 
