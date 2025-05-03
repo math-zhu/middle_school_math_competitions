@@ -33,4 +33,5 @@
 | 3/29  | [N10](Notes/N10.pdf)  | p104-p114, p118  |  p109, 3.200, 3.700<br>p110, 3.210, 3.310, 3.810<br> p113, 3.120, 3.420, 3.620<br>p115, 3.130, 3.530, <br>p119, 3.250, 3.550 |  [HW10](Homeworks/Math_HW_10.ipynb) |
 | 4/5  | [N11](Notes/N11.pdf)  | p121-p124, p116  |  p120, 3.060, 3.560, 3.660<br>p123, 3.170, 3.270<br> p125, 3.080, 3.180, 3.380 |  [HW11](Homeworks/Math_HW_11.ipynb) |
 | 4/12  | [N12](Notes/N12.pdf)<br> [Quiz2](Quiz/Q2.pdf) |   |   |   |
-| 4/26  | [N13](Notes/N13.pdf)<br> [Diophantus's "Arithmetica"](/Notes/Diophantus.pdf) | p2-p8, p16-p21  | p2, 1.400, 1.600<br>p8, 1.900, 1.010<br>p9, 1.310, 1.410, 1.510<br>p22, 1.130, 1.230, 1.330, 1.530  | HW13 |
+| 4/26  | [N13](Notes/N13.pdf)<br> [Diophantus's "Arithmetica"](/Notes/Diophantus.pdf) | p2-p8, p16-p21  | p2, 1.400, 1.600<br>p8, 1.900, 1.010<br>p9, 1.310, 1.410, 1.510<br>p22, 1.130, 1.230, 1.330, 1.530  | [HW12](Homeworks/Math_HW_12.ipynb) |
+| 4/26  | [N14](Notes/N14.pdf) | p23-p28, p31-p33  | p29, 1.140, 1.240<br>p30, 1.450, 1.750<br>p31, 1.070, 1.270<br>p32, 1.370, 1.470, 1.570<br>p33, 1.180, 1.280, 1.580  | HW13 |
